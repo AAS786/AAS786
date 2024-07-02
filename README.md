@@ -22,8 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asif-Shaikh&show_icons=true&theme=radical" width="42%" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-Shaikh&show_icons=true&theme=radical" width="32%" alt="Top Langs">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Asif-Shaikh&show_icons=true&theme=radical" width="42%" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-Shaikh&show_icons=true&theme=radical" width="32%" alt="Top Langs"> -->
 </div>
 
 
